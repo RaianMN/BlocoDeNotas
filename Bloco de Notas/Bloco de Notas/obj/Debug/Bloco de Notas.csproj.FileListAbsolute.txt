@@ -1,0 +1,10 @@
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe.config
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.pdb
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csprojAssemblyReference.cache
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.frmPrincipal.resources
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Properties.Resources.resources
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.exe
+C:\Users\Raian\Source\Repos\BlocoDeNotas\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.pdb
